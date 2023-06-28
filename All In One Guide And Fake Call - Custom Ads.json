@@ -2,7 +2,7 @@
   "ADS": {
 
  
-    "networkAd": "0",
+    "networkAd": "xx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -64,7 +64,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : "false",
+    "CpaAds" : "False",
 
     "Click_inter": "0"
 
